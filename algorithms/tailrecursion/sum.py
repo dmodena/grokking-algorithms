@@ -1,4 +1,4 @@
-def sum(arr, result = 0):
+def sum(arr, result=0):
     '''
     Returns the sum of all elements in an array.
     '''
